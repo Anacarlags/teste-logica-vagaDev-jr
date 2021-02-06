@@ -1,14 +1,13 @@
-# Teste CodeBy
+# Teste Empresa C
 
-📢 Aviso: Não dê um fork neste repositório. Clone o repositório e suba em seu GitHub de forma privada, apenas dando acesso ao usuário [testes-recrutamento@codeby.com.br](mailto:testes-recrutamento@codeby.com.br)
-- [Teste CodeBy](#teste-codeby)
+- [Teste C](#teste-code)
   - [Descrição](#descrição)
   - [Como funciona este repositório?](#como-funciona-este-repositório)
   - [Problema](#problema)
   - [Como testar?](#como-testar)
 
 ## Descrição
-Esse repositório possui o teste da CodeBy para avaliar as habilidades de lógica do candidato em questão.
+Esse repositório possui o teste da Empresa C para avaliar as habilidades de lógica do candidato em questão.
 
 ## Como funciona este repositório?
 No repositório em questão, existe um teste criado com Jest que deve ser rodado para verificar se a estrutura condiz com o que buscamos. Seu código deve ser colocado no arquivo [productStructure.js](./productStructure.js). Sinta-se livre para estruturar da forma que preferir, desde que o retorno seja criado de acordo com resultado que esperamos na seção seguinte, levando em consideração que no seu código o retorno deve ser dinámico, baseado no array inicial fornecido no arquivo em questão.
