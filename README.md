@@ -9,7 +9,7 @@
 ## Descrição
 Esse repositório possui o teste da Empresa C para avaliar as habilidades de lógica do candidato em questão.
 
-## Como funciona este repositório?
+## Como funciona ?
 No repositório em questão, existe um teste criado com Jest que deve ser rodado para verificar se a estrutura condiz com o que buscamos. Seu código deve ser colocado no arquivo [productStructure.js](./productStructure.js). Sinta-se livre para estruturar da forma que preferir, desde que o retorno seja criado de acordo com resultado que esperamos na seção seguinte, levando em consideração que no seu código o retorno deve ser dinámico, baseado no array inicial fornecido no arquivo em questão.
 
 ## Problema
